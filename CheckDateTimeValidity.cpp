@@ -72,7 +72,7 @@ void CheckDateTimeValidity(const DateTime& dt) {
     DateTimeValidator::Validate(dt);
 }
 
-//Функцию `CheckDateTimeValidity` можно использовать для проверки валидности объекта `DateTime`. Пример:
+//Р¤СѓРЅРєС†РёСЋ `CheckDateTimeValidity` РјРѕР¶РЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РґР»СЏ РїСЂРѕРІРµСЂРєРё РІР°Р»РёРґРЅРѕСЃС‚Рё РѕР±СЉРµРєС‚Р° `DateTime`. РџСЂРёРјРµСЂ:
 
 /*int main() {
     DateTime dt{ 2022, 9, 15, 12, 30, 0 };
